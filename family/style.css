@@ -1,0 +1,10 @@
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-ul{
+    font-size: 18px;
+}
+.main-ul li{
+    font-size: 1.2em;
+}
